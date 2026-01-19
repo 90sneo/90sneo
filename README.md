@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
     <img alt="typograssy"
-      src="https://typograssy.deno.dev/api?text=90sneo%20%E2%98%9D%EF%B8%8F%F0%9F%A4%93%20quiet%20builds%20only&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=" />
+      src="https://typograssy.deno.dev/api?text=90sneo%20%E2%98%9D%EF%B8%8F%F0%9F%A4%93%20private%20mode%20activated&l0=none&l1=82d9d0&l2=027353&l3=038c4c&l4=01402e&bg=none&frame=none&speed=100&comment=" />
   </a>
 
   <p>
@@ -22,12 +22,15 @@
 
 <h2 align="center">👁️‍🗨️ About this profile 👁️‍🗨️</h2>
 
-Username: 90sneo
-Mode: Private / low-key
-Vibe: 90s + neon + anime aesthetics
-Focus: Data Science • AI/ML • App Dev
-Goal: quiet builds ☝️🤓</code>
-  </pre>
+<div align="center">
+  <p>
+    <b>Username:</b> 90sneo <br>
+    <b>Status:</b> Private / low-key mode 🔒 <br>
+    <b>Aesthetic:</b> 90s neon • anime energy • cyber vibes ✨ <br>
+    <b>Core Focus:</b> Data Science • AI/ML • App Development 🚀 <br>
+    <b>Currently:</b> building skills, exploring ideas, leveling up 💻⚡ <br>
+    <b>Note:</b> minimal noise — maximum grind 😼
+  </p>
 </div>
 
 <hr>
